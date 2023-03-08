@@ -45,4 +45,7 @@
 			<item value=""/>
 		</list>
 	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="C:\Users\yasmi\Documents\Projeto Conta"/>
+	</section>
 </section>
